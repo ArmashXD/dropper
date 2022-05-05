@@ -1,4 +1,4 @@
-This repo is somewhat functionality complete — PRs and issues welcome!
+This project is some what complete — PRs and issues welcome!
 
 ---
 
